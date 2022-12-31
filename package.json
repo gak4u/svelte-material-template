@@ -17,7 +17,7 @@
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-postcss": "^2.0.3",
+    "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-svelte": "^5.1.0",
     "sass": "^1.23.7",
     "serve": "^11.1.0",
